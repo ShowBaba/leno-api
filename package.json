@@ -15,9 +15,6 @@
   },
   "author": "Samuel Shoyemi",
   "license": "MIT",
-  "engines": {
-    "node": "12.16.3"
-  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "class-validator": "^0.13.1",
@@ -36,6 +33,7 @@
     "reflect-metadata": "^0.1.10",
     "tedis": "^0.1.12",
     "ts-node": "^9.1.1",
+    "ts-node-dev": "^1.1.6",
     "tsconfig-paths": "^3.9.0",
     "typeorm": "0.2.31",
     "typescript": "^4.2.3",
@@ -57,9 +55,6 @@
     "@typescript-eslint/parser": "^4.19.0",
     "eslint": "^7.23.0",
     "find": "^0.3.0",
-    "fs-extra": "^9.1.0",
-    "ts-node": "3.3.0",
-    "ts-node-dev": "^1.1.6",
-    "typescript": "3.3.3333"
+    "fs-extra": "^9.1.0"
   }
 }
