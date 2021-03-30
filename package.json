@@ -15,6 +15,9 @@
   },
   "author": "Samuel Shoyemi",
   "license": "MIT",
+  "engines": {
+    "node": "12.16.3"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "class-validator": "^0.13.1",
