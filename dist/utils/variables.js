@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = {
+    redisPort: process.env.REDIS_PORT,
+    port: process.env.PORT,
+    NODE_ENV: process.env.NODE_ENV,
+    dbHost: process.env.host,
+    dbPort: process.env.db_port,
+    dbUsername: process.env.db_username,
+    dbPassword: process.env.db_password,
+    dbName: process.env.db_name,
+};
+//# sourceMappingURL=variables.js.map
